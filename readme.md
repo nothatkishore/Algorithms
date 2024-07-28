@@ -12,7 +12,6 @@
             <th>Description</th>
             <th>Time Complexity</th>
             <th>Space Complexity</th>
-            <th>Status</th>
         </tr>
     </thead>
     <tbody>
@@ -23,7 +22,6 @@
             <td>Traverses or searches through the graph by exploring as far as possible along each branch before backtracking.</td>
             <td>O(V + E)</td>
             <td>O(V)</td>
-            <td><input type="checkbox" name="DFS" id="DFS"></td>
         </tr>
         <tr>
             <td>02</td>
@@ -32,9 +30,6 @@
             <td>Traverses or searches through the graph level by level.</td>
             <td>O(V + E)</td>
             <td>O(V)</td>
-            <td>
-                [ ]
-            </td>
         </tr>
         <tr>
             <td>03</td>
@@ -43,7 +38,6 @@
             <td>Finds the shortest path from a single source vertex to all other vertices in a graph with non-negative edge weights.</td>
             <td>O((V + E) log V)</td>
             <td>O(V)</td>
-            <td><input type="checkbox" name="Dijkstra" id="Dijkstra"></td>
         </tr>
     </tbody>
 </table>
