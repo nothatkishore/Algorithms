@@ -32,7 +32,9 @@
             <td>Traverses or searches through the graph level by level.</td>
             <td>O(V + E)</td>
             <td>O(V)</td>
-            <td><input type="checkbox" name="BFS" id="BFS"></td>
+            <td>
+                [ ]
+            </td>
         </tr>
         <tr>
             <td>03</td>
