@@ -1,5 +1,5 @@
-<h3>
+<h2>
     Analysis of Algorithms
-</h3>
+</h2>
 
 <hr>
